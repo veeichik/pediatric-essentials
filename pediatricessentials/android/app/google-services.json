@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605912695472",
+    "project_id": "pediatric-essentials",
+    "storage_bucket": "pediatric-essentials.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605912695472:android:a9a6ffc0e19039db567175",
+        "android_client_info": {
+          "package_name": "com.pediatricessentials.pediatricessentials"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605912695472-655lvoc1ije5c1u0ejpma1vdu7bqg7tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQmL9zHAPQ-HGTb1F9b2nDog6RLhmwT50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605912695472-655lvoc1ije5c1u0ejpma1vdu7bqg7tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
